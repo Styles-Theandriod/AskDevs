@@ -1,0 +1,22 @@
+{
+  "name": "Styles Theandriod",
+  "bio": "Full Stack Dev",
+  "image": "https://avatars.githubusercontent.com/u/59735626?v=4",
+  "categories": [
+    {
+      "slug": "programming",
+      "topics": ["JavaScript"]
+    },
+    {
+      "slug": "web-development",
+      "topics": ["CSS", "ReactJS", "Nodejs"]
+    },
+    {
+      "slug": "database-development",
+      "topics": ["MYSQL"]
+    }
+  ],
+  "contacts": {
+    "twitter": "SkillPresident"
+  }
+}
